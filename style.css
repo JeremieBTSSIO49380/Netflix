@@ -1,0 +1,210 @@
+body{
+    background-color: black;
+}
+
+.Head{
+width: 1920px;
+height: 729.38px;
+background-image: url('NetflixHead.jpg');
+}
+
+.BarreHead{
+display: flex;
+justify-content: space-between;
+padding-top: 60px;
+padding-left: 56px;
+width: 1808px;
+height: 57px;
+}
+
+
+.BouttonsConnect{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+
+.Button1 {
+    width: 110px;
+    height: 50px;
+    background-color:black;
+    color: white; 
+    border-radius: 5%;
+    border:2px solid white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.Button1:hover {
+    background-color: #2980b9;
+}
+
+.Button2 {
+    width: 110px;
+    height: 50px;
+    background-color:red;
+    color: white; 
+    border-radius: 5%;
+    border:white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.Button2:hover {
+    background-color: #2980b9;
+}
+
+.Research {
+    text-align: center;
+    color: white;
+    width: 950px;
+    height: 490px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.TitleHaut  {
+    font-family: Helvetica;
+    font-size: 62px;
+    font-weight: normal;
+    padding-top: 6%; 
+    padding-right: 10%; 
+    padding-left: 10%;
+    padding-bottom: 0; 
+}
+.TitleMiddle {
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: normal; 
+    padding-right: 10%; 
+    padding-left: 10%;
+    padding-bottom: 0; 
+}
+.TitleBottom {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: normal; 
+}
+.ButtonMail {
+    width: 300px;
+    height: 70px;
+    background-color:red;
+    color: white; 
+    border:white;
+    padding: 10px 20px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.ButtonMail:hover {
+    background-color: #2980b9;
+}
+
+#InputMail {
+    width: 600px;
+    height: 70px;
+    background-color:white;
+    color:black; 
+    border:white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.PartOne{
+    width: 1920px;
+    height: 473.92px;
+    border-top: 10px solid #403f3f;
+    border-bottom: 10px solid #403f3f;
+    }
+.ContainTextImg{
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    height: 325px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.TextImg {
+    margin-top: 5%;
+    width: 596px;
+    height: 174px;
+}
+.TexteHaut  {
+    color: white;
+    width: 600px;
+    height: 56px;
+    font-family: Helvetica;
+    font-size: 58px;
+    font-weight: normal;
+    padding-top: 6%; 
+    padding-right: 10%; 
+    padding-left: 10%;
+    padding-bottom: 0; 
+    }
+.TexteMiddle {
+    color: white;
+    width: 504px;
+    height: 92px;
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: normal; 
+    padding-right: 10%; 
+    padding-left: 10%;
+    padding-bottom: 0; 
+    }
+.ImgDevice{
+    margin-top:5% ;
+}
+.TexteHautKids  {
+    color: white;
+    width: 600px;
+    height: 56px;
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: normal;
+    padding-top: 6%; 
+    padding-right: 10%; 
+    padding-left: 10%;
+    padding-bottom: 0; 
+    }
+.TexteMiddleSerie {
+    color: white;
+    width: 504px;
+    height: 92px;
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: normal; 
+    padding-top: 12%;
+    padding-right: 10%; 
+    padding-left: 10%;
+    padding-bottom: 0; 
+    }
+footer{
+    width: 900px;
+    height: 292px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #737373;
+}
+.MentionColonnes {
+    height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; /* Deux colonnes égales */
+    gap: 10px; /* Ajoutez un espacement entre les colonnes */
+}
+
+.Colonne {
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: normal;
+}
+.Questions{
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+
