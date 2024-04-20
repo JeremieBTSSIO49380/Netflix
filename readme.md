@@ -4,7 +4,7 @@ Ce tp a pour but d'apprendre les bases du balisage HTML et la mise en forme en C
 
 ## Netflix
 
-[![alt text](https://github.com/JeremieTran/Netflix/blob/master/netflix.png)
+![alt text](https://github.com/JeremieTran/Netflix/blob/master/netflix.png)
 
 ## prérequis
 
