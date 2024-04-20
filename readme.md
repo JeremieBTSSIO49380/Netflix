@@ -1,4 +1,4 @@
-# Titre principal
+Maquette HTML / CSS NETFLIX
 
 Description succincte du projet, liste des fonctionnalités, éléments de démarquation des autres projets !
 
