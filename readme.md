@@ -6,35 +6,20 @@ Ce tp a pour but d'apprendre les bases du balisage HTML et la mise en forme en C
 
 ![alt text](https://github.com/JeremieTran/Netflix/blob/master/netflix.png)
 
-## prérequis
+## Prérequis
 
-Si votre projet nécessite l'installation de dépendances ou de logiciels manuellement pour faire fonctionner votre projet, renseignez les ici, sinon supprimer cette partie
+- VS Code
+- Flex box : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Installation
 
-Tutoriel step-by-step et réplicable pour installer votre projet.
-
-**Note** : Si différentes étapes sont nécessaire en fonction des OS sur lesquels l'installation est effectuée (Windows, Mac, Linux, iOS, Android, etc...), alors il vous appartient de répliquer cette partie pour chacune des différentes plateforme.
-
-## Utilisation
-
-Exemples d'utilisation de votre projet.
-
-## Support
-
-Comment contacter le support ?
-
-## Roadmap
-
-Plan d'action à mener pour continuer d'avancer sur votre projet.
+- Télécharger le dossier zip
+- Extraire le contenu à la racine du serveur ou de l'émulateur
 
 ## Contribution
 
-Règles spécifiques pour contribuer à votre projet.
+Toute idée ou suggestion est la bienvenue !
 
-## Auteurs et reconnaissance
-
-Remerciement aux contributeurs importants
 
 ## Licence
 
