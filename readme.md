@@ -4,7 +4,9 @@ Ce tp a pour but d'apprendre les bases du balisage HTML et la mise en forme en C
 
 ## Netflix
 
-Intégrez des visuels (photos, GIF, vidéos, etc...) de votre projet.
+![alt text](http://url/to/img.png)
+
+Source: https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github
 
 ## prérequis
 
