@@ -1,18 +1,8 @@
-Maquette HTML / CSS NETFLIX
+## Maquette HTML / CSS NETFLIX
 
-Description succincte du projet, liste des fonctionnalités, éléments de démarquation des autres projets !
+Ce tp a pour but d'apprendre les bases du balisage HTML et la mise en forme en CSS ainfi que l'utilisation des flex Box
 
-## Badges (retirez le titre une fois renseigné)
-
-Intégrez ensuite vos badges, vous pouvez vous rendre sur le site <a href="https://shields.io" title="shields - le site de gestion des badges pour github" target="_blank" rel="nofollow">https://shields.io</a>
-
-Voici quelques exemples :
-
-![texte_alternatif](https://img.shields.io/badge/mon_premier_text_exemple-en_bleu-blue "description du badge")
-![texte_alternatif](https://img.shields.io/badge/un_message_en_rouge-FF0000 "description du badge")
-
-
-## Visuels (retirez le titre une fois renseigné)
+## Netflix
 
 Intégrez des visuels (photos, GIF, vidéos, etc...) de votre projet.
 
